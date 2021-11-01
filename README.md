@@ -17,6 +17,9 @@
 # 특별 기여자
 - TadpoleHub
 
+# 사용하는 오픈소스 목록 
+- https://github.com/hangum/first_opensource/wiki/UseOpenSource
+
 # 사용하는 곳
 - 테드폴허브에서 인프라 시스템으로 사용 중입니다. 
 - 
