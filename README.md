@@ -17,7 +17,7 @@
 # 특별 기여자
 - TadpoleHub
 
-# 사용하는 오픈소스 목록 
+# 사용하는 오픈소스
 - https://github.com/hangum/first_opensource/wiki/UseOpenSource
 
 # 사용하는 곳
