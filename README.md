@@ -5,7 +5,7 @@
 ![screenshot](https://tadpoledbhub.atlassian.net/wiki/download/thumbnails/570851331/%E3%85%81%E3%85%88%E3%84%B4.jpg?version=1&modificationDate=1550031415649&cacheVersion=1&api=v2&height=440&width=500)
 
 # 실행 
-- https://github.com/hangum/first_opensource/wiki/%EC%8B%A4%ED%96%89-%ED%99%98%EA%B2%BD
+- https://tadpoledbhub.atlassian.net/l/c/6A5pQgdh
 # 연락처
 - hangum(hangum@gmail.com)
 # 기여자
